@@ -9,7 +9,7 @@ name: Emerson Ford
 description: University of Utah Computer Science Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/1847933?s=460&v=4
+avatar: https://www.dropbox.com/s/d37mcyunr21xrk1/Picture.jpg?raw=1
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://avatars2.githubusercontent.com/u/1847933?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: emersontford@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: emersonford
   instagram:
-  linkedin:
+  linkedin: emersonford
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: emeford
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
